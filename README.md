@@ -1,6 +1,6 @@
 ### Hi!
-- German computer science student at OTH Regensburg
-- Working student in automotive field
-- Interested in: Android, Android Automotive OS, Cloud Computing (AWS, Azure, Google), Java, Kotlin, C#, .NET
+- German computer science student at the Technical University of Denmark
+- Working student in health technologz
+- Interested in: Android, Flutter, Cloud Computing (AWS, Azure, Google), Java, Kotlin, C#, .NET
 
 
